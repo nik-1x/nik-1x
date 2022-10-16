@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nik-1x
+- 👀 I’m interested in Blockchain
+- 🌱 I’m currently learning Go
+- 💞️ I’m looking to collaborate with crypto projects
+- 📫 t.me/niki_tt
